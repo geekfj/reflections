@@ -1,8 +1,12 @@
-What happens when you initializes a git repository? Why do you need to do it?
+1. What happens when you initializes a git repository? Why do you need to do it?
 - It tells the system the repo is initialized.
-How is staging area different from the working directory and repository?
+
+2. How is staging area different from the working directory and repository?
 What value do you think does it offer?
 
 WD -> SA -> Repo
-it offers a buffer
+it offers a buffer.
 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+add a bunch of changes into the staging area
