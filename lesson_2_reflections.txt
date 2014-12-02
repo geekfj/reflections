@@ -14,3 +14,7 @@ add a bunch of changes into the staging area
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 different people work in the same project. 
+
+5. How do diagrams help you visualize the branch structure?
+
+it helps me know the branches and the commits somebody has done on each of them.
